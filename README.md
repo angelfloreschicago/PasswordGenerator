@@ -2,8 +2,7 @@
 
 ## Link
 https://angelfloreschicago.github.io/hw3_passwordGenerator/
-<img src="./images/password_gen_screenshot.png">">
-<img src="./assets/images/screenshot.png">
+<img src="./images/password_gen_screenshot.png">
 
 ## Page Guide/Description
 - This is a simple password generator.
